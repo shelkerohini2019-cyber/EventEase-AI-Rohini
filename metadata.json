@@ -1,0 +1,6 @@
+{
+  "name": "EventEase AI – Smart Event Planner",
+  "description": "Plan weddings, birthdays, and community events with AI theme curation, smart budget breakdowns, timelines, and vendor checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
